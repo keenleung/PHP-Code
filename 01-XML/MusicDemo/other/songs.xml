@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<songs>
+  <music>
+    <name>墨尔本的翡翠</name>
+    <singer>林颐</singer>
+    <special>墨尔本的翡翠</special>
+    <time>04:00</time>
+  </music>
+  <music>
+    <name>红</name>
+    <singer>冯建宇</singer>
+    <special>红.HONG</special>
+    <time>04:02</time>
+  </music>
+  <music>
+    <name>男人 KTV</name>
+    <singer>侧田</singer>
+    <special>Jtv</special>
+    <time>04:50</time>
+  </music>
+  <music>
+    <name>666</name>
+    <singer>666</singer>
+    <special>666</special>
+    <time>666</time>
+  </music>
+  <music>
+    <name>7</name>
+    <singer>7</singer>
+    <special>7</special>
+    <time>7</time>
+  </music>
+  <music>
+    <name>00011</name>
+    <singer>11</singer>
+    <special>11</special>
+    <time>11</time>
+  </music>
+</songs>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book type="脚本语言">
+    <name>php</name>
+    <price>48</price>
+  </book>
+  <book type="标记语言">
+    <name>xml</name>
+    <price>60</price>
+  </book>
+  <book type="动态语言">
+    <name>c#</name>
+    <price>100</price>
+  </book>
+</books>
